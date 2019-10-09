@@ -4,7 +4,7 @@ public class Main{
         Scanner sc = new Scanner(System.in);
         System.out.println("enter a string");
         String a = "mehul";
-        int b = a.indexOf("ii");
+        int b = a.indexOf("e");
         System.out.println(b);
     }
 }
