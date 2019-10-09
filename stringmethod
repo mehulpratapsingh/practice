@@ -3,7 +3,7 @@ public class Main{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("enter a string");
-        String a = "ritik";
+        String a = "mehul";
         int b = a.indexOf("ii");
         System.out.println(b);
     }
